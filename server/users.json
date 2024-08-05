@@ -1,26 +1,22 @@
 [
   {
-    "username": "orel",
-    "credentials": [],
-    "checkedIn": false
-  },
-  {
-    "username": "orel",
-    "credentials": [],
-    "checkedIn": false
-  },
-  {
-    "username": "orelz",
-    "credentials": [
-      {}
-    ],
-    "checkedIn": true
-  },
-  {
     "username": "Anna",
     "credentials": [
-      {}
-    ],
-    "checkedIn": false
+      {
+        "credId": "AaA/vtb1zSnau4d/WgSjRhzH+f+9y9IDkVG7qW51c7ptI5Q8iep5m+royJJDurtxGGdi7BOrIzsD5aKfRf8fbDE=",
+        "publicKey": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEPMIT0wa9CacM8VPy/oaF/AyQy3OE\niYxo25lYmZ4ALcqaFlRbKti+OW6yCLNuPwZKOo7Z0jv8q5jDfxG+JQgP+Q==\n-----END PUBLIC KEY-----\n",
+        "counter": 2
+      }
+    ]
+  },
+  {
+    "username": "Pinchuk",
+    "credentials": [
+      {
+        "credId": "12X7wO7YdciUty2yrhXkBGD4Uns=",
+        "publicKey": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/pP30Js4RqIiusjcDaP5lgzgXw2O\nd32tgQ9kYccjdLpRT+U3EyRfepugHBezZ0jzxq4Y4JNCpExy1ACuM9fEvg==\n-----END PUBLIC KEY-----\n",
+        "counter": 0
+      }
+    ]
   }
 ]
