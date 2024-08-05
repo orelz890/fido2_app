@@ -1,0 +1,26 @@
+[
+  {
+    "username": "orel",
+    "credentials": [],
+    "checkedIn": false
+  },
+  {
+    "username": "orel",
+    "credentials": [],
+    "checkedIn": false
+  },
+  {
+    "username": "orelz",
+    "credentials": [
+      {}
+    ],
+    "checkedIn": true
+  },
+  {
+    "username": "Anna",
+    "credentials": [
+      {}
+    ],
+    "checkedIn": false
+  }
+]
